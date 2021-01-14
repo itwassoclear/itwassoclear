@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
 
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/itwassoclear)
+- ⭐️ All of my projects are available at [my GitHub](https://github.com/itwassoclear)
 
 - 💌 How to reach me **itwassoclear@gmail.com**
 
