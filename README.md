@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<h1 align="center">Hi 👋, I'm Masha</h1>
+<h1 align="center">Hi 👋🏻, I'm Masha</h1>
 <h3 align="center">A passionate frontend developer from Moscow</h3>
 
 - 🔭 I’m currently working on [Crazy Panda](https://crazypanda.ru/en/)
@@ -10,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/itwassoclear)
 
-- 📫 How to reach me **itwassoclear@gmail.com**
+- 💌 How to reach me **itwassoclear@gmail.com**
 
 - ⚡ Fun fact **I like to hitchhike**
 
