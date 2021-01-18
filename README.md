@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Masha</h1>
 <h3 align="center">A passionate frontend developer from Moscow</h3>
 
-- 🔭 I’m currently working on [Crazy Panda](https://crazypanda.ru/en/)
+- 🔭 I’m currently working in [Crazy Panda](https://crazypanda.ru/en/)
 
 - 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
 
