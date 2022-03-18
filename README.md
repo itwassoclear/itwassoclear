@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Masha</h1>
 <h3 align="center">A passionate frontend developer from Moscow</h3>
 
-- 🔭 I’m currently working in [Crazy Panda](https://crazypandagames.com/en/)
+- 🔭 Worked in [Crazy Panda](https://crazypandagames.com/en/) and in [Sberbank](https://www.sberbank.com/). Now i'm looking for a new job in Europe.
 
 - 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
 
