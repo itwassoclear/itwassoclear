@@ -3,7 +3,7 @@
 
 - 🔭 Worked in [Crazy Panda](https://crazypandagames.com/en/) and in [Sberbank](https://www.sberbank.com/). Now i'm looking for a new job in Europe.
 
-- 🌱 I’m currently learning **React, Node.js, Express and MongoDB**
+- 🌱 I’m currently learning **React, Redux, and TypeScript** at [Practicum by Yandex](https://practicum.yandex.com/)
 
 - ⭐️ All of my projects are available at [my GitHub](https://github.com/itwassoclear)
 
