@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Masha</h1>
-<h3 align="center">A passionate frontend developer from Moscow</h3>
+<h3 align="center">A passionate a frontend developer with a background in design and work experience in development responsive web applications with close attention to UX.</h3>
 
 🔭 Worked in [Crazy Panda](https://crazypandagames.com/en/) and in [Sberbank](https://www.sberbank.com/). Now i'm looking for a new job in Europe.
 
