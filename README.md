@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Masha</h1>
 <h3 align="center">A passionate frontend developer with a background in design and work experience in development responsive web applications with close attention to UX.</h3>
 
-🔭 Worked in [Crazy Panda](https://crazypandagames.com/en/) and in [Sberbank](https://www.sberbank.com/). Now i'm looking for a new job in Europe.
+🔭 Worked in [Crazy Panda](https://crazypandagames.com/en/) and in [Sberbank](https://www.sberbank.com/) and currently continuing my career at [KE](https://www.k-expert.com/).
 
-🌱 I’m currently learning React, Redux, and TypeScript at [Practicum by Yandex](https://practicum.yandex.com/)
+🌱 Continuously learning with the use of modern technologies at [Practicum by Yandex](https://practicum.yandex.com/)
 
 ⭐️ All of my projects are available at [my GitHub](https://github.com/itwassoclear)
 
