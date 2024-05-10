@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Masha</h1>
 <h3 align="center">A passionate frontend developer with a background in design and work experience in development responsive web applications with close attention to UX.</h3>
 
-🔭 Worked in [Crazy Panda](https://crazypandagames.com/en/) and in [Sberbank](https://www.sberbank.com/) and currently continuing my career at [KE](https://www.k-expert.com/).
+🔭 Worked in [Crazy Panda](https://crazypandagames.com/en/), [Sberbank](https://www.sberbank.com/) and [Knowledge Expert](https://www.k-expert.com/).
 
 🌱 Continuously learning with the use of modern technologies at [Practicum by Yandex](https://practicum.yandex.com/)
 
